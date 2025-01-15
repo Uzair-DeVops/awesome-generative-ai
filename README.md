@@ -1,3 +1,4 @@
+By Uzair
 # Awesome Generative AI [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > A curated list of modern Generative Artificial Intelligence projects and services.
